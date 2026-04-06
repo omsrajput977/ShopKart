@@ -2,6 +2,8 @@
 
 ![ShopKart Application](https://img.shields.io/badge/Status-Completed-success) ![React](https://img.shields.io/badge/React-18.0-blue.svg) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-38B2AC.svg) ![Vite](https://img.shields.io/badge/Build-Vite-646CFF.svg)
 
+> **🌍 Live Demo**: [View ShopKart Deployment Here](#) *(https://shop-kart-wine.vercel.app/)*
+
 > **Architected and Developed by Om Rajput**
 
 ShopKart is a modern, high-performance E-commerce web application designed to demonstrate advanced system architecture in React. It features robust global state management, dynamic mathematical product filtering, seamless local-storage persistence, and a highly responsive, animated UI system.
